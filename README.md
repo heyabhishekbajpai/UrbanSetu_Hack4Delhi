@@ -2,6 +2,9 @@
 
 > **आवाज़ उठाओ, बदलाव लाओ** (Raise Your Voice, Bring Change)
 
+**Live Deployment:** [https://urbansetu.co.in](https://urbansetu.co.in)
+
+
 <!-- FORCE VERCEL DEPLOYMENT - Version 1.2.0 - Supabase Integration & Admin Features -->
 
 A modern, AI-powered civic issue reporting and resolution platform designed for mobile-first usage. UrbanSetu connects citizens with local authorities for faster, more efficient problem-solving through crowdsourced reporting and real-time tracking.
@@ -139,6 +142,9 @@ A modern, AI-powered civic issue reporting and resolution platform designed for 
 - **Admin Verification**: UI checks for 'admin' role in `profiles` table.
 
 ## 🚀 Deployment
+
+**Live URL:** [https://urbansetu.co.in](https://urbansetu.co.in)
+
 
 ### Build Process
 ```bash
